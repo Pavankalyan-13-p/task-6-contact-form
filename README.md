@@ -4,7 +4,7 @@ This project is a **contact form** built using HTML, CSS, and JavaScript as part
 It includes client-side validation for **Name**, **Email**, and **Message** fields to ensure proper input before submission.
 
 ## Live Demo
-https://Pavankalyan-13-p.github.io/task6-contact-form/
+ https://pavankalyan-13-p.github.io/task-6-contact-form/
 
 ## Features
 - 📝 **Name, Email, and Message Fields** – Simple and user-friendly.
