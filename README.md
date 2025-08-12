@@ -1,30 +1,30 @@
-Contact Form with Validation 
-This project is a contact form built using HTML, CSS, and JavaScript as part of Task 6.
-It includes client-side validation for Name, Email, and Message fields to ensure proper input before submission.
+# Contact Form with Validation (Task 6)
 
-Features
-📝 Name, Email, and Message Fields – Simple and user-friendly.
- Validation – Ensures all fields are filled and email is valid.
- Error Messages – Shown for incorrect or empty inputs.
- Success Message – Displays when the form is submitted correctly.
- Pure HTML, CSS, and JavaScript – No external libraries used.
+This project is a **contact form** built using HTML, CSS, and JavaScript as part of Task 6.  
+It includes client-side validation for **Name**, **Email**, and **Message** fields to ensure proper input before submission.
 
-How It Works
-The form checks for empty fields before submission.
-Email is validated using a regular expression.
-Displays error messages without reloading the page.
-Prevents submission until all inputs are valid.
+## Features
+- 📝 **Name, Email, and Message Fields** – Simple and user-friendly.
+- ✅ **Validation** – Ensures all fields are filled and email is valid.
+- ⚠️ **Error Messages** – Shown for incorrect or empty inputs.
+- 🎯 **Success Message** – Displays when the form is submitted correctly.
+- 🌐 **Pure HTML, CSS, and JavaScript** – No external libraries used.
 
-Files
-index.html – Structure of the form.
-style.css – Styling for the form layout and error messages.
-script.js – JavaScript code for validation logic.
+## How It Works
+- The form checks for empty fields before submission.
+- Email is validated using a regular expression.
+- Displays error messages without reloading the page.
+- Prevents submission until all inputs are valid.
 
-How to Use
-Clone or download this repository.
-Open index.html in your browser.
+## Files
+- `index.html` – Structure of the form.
+- `style.css` – Styling for the form layout and error messages.
+- `script.js` – JavaScript code for validation logic.
 
-Fill in the form and test different inputs to see validation in action.
+## How to Use
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Fill in the form and test different inputs to see validation in action.
 
-License
+## License
 This project is open-source and free to use.
